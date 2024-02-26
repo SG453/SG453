@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Subhash Goud
 - 👀 I’m interested in Learning new skills, Exploring data.
-- 🌱 I’m currently learning Data Engineer/Big Data concepts.
 - 💞️ I’m looking to collaborate on Data Science/Data request projects.
 - 📫 How to reach me danta2715@gmail.com
 
